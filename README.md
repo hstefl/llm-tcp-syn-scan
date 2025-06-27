@@ -110,5 +110,9 @@ Dependencies
    uv sync 
    ```
    
+### Run
+ * Training: `uv run train.py`
+ * Inference: `uv run inference.py`
+   
 
 
